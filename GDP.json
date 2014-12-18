@@ -1,0 +1,1578 @@
+[
+  {
+    "Code": "AFG",
+    "USD": 20725,
+    "Economy": "Afghanistan",
+    "Ranking": 107,
+    "lat": 33,
+    "lon": 65
+  },
+  {
+    "Code": "ALB",
+    "USD": 12904,
+    "Economy": "Albania",
+    "Ranking": 125,
+    "lat": 41,
+    "lon": 20
+  },
+  {
+    "Code": "DZA",
+    "USD": 210183,
+    "Economy": "Algeria",
+    "Ranking": 49,
+    "lat": 28,
+    "lon": 3
+  },
+  {
+    "Code": "AGO",
+    "USD": 121704,
+    "Economy": "Angola",
+    "Ranking": 60,
+    "lat": -12.5,
+    "lon": 18.5
+  },
+  {
+    "Code": "ATG",
+    "USD": 1230,
+    "Economy": "Antigua and Barbuda",
+    "Ranking": 174,
+    "lat": 17.05,
+    "lon": -61.8
+  },
+  {
+    "Code": "ARG",
+    "USD": 611755,
+    "Economy": "Argentina",
+    "Ranking": 21,
+    "lat": -34,
+    "lon": -64
+  },
+  {
+    "Code": "ARM",
+    "USD": 10432,
+    "Economy": "Armenia",
+    "Ranking": 135,
+    "lat": 40,
+    "lon": 45
+  },
+  {
+    "Code": "ABW",
+    "USD": 2584,
+    "Economy": "Aruba",
+    "Ranking": 162,
+    "lat": 12.5,
+    "lon": -69.9667
+  },
+  {
+    "Code": "AUS",
+    "USD": 1560597,
+    "Economy": "Australia",
+    "Ranking": 12,
+    "lat": -27,
+    "lon": 133
+  },
+  {
+    "Code": "AUT",
+    "USD": 415844,
+    "Economy": "Austria",
+    "Ranking": 28,
+    "lat": 47.3333,
+    "lon": 13.3333
+  },
+  {
+    "Code": "AZE",
+    "USD": 73560,
+    "Economy": "Azerbaijan",
+    "Ranking": 67,
+    "lat": 40.5,
+    "lon": 47.5
+  },
+  {
+    "Code": "BHS",
+    "USD": 8149,
+    "Economy": "Bahamas, The",
+    "Ranking": 141,
+    "lat": 24.25,
+    "lon": -76
+  },
+  {
+    "Code": "BHR",
+    "USD": 32788,
+    "Economy": "Bahrain",
+    "Ranking": 94,
+    "lat": 26,
+    "lon": 50.55
+  },
+  {
+    "Code": "BGD",
+    "USD": 129857,
+    "Economy": "Bangladesh",
+    "Ranking": 58,
+    "lat": 24,
+    "lon": 90
+  },
+  {
+    "Code": "BRB",
+    "USD": 4225,
+    "Economy": "Barbados",
+    "Ranking": 154,
+    "lat": 13.1667,
+    "lon": -59.5333
+  },
+  {
+    "Code": "BLR",
+    "USD": 71710,
+    "Economy": "Belarus",
+    "Ranking": 68,
+    "lat": 53,
+    "lon": 28
+  },
+  {
+    "Code": "BEL",
+    "USD": 508116,
+    "Economy": "Belgium",
+    "Ranking": 26,
+    "lat": 50.8333,
+    "lon": 4
+  },
+  {
+    "Code": "BLZ",
+    "USD": 1605,
+    "Economy": "Belize",
+    "Ranking": 169,
+    "lat": 17.25,
+    "lon": -88.75
+  },
+  {
+    "Code": "BEN",
+    "USD": 8307,
+    "Economy": "Benin",
+    "Ranking": 140,
+    "lat": 9.5,
+    "lon": 2.25
+  },
+  {
+    "Code": "BMU",
+    "USD": 5474,
+    "Economy": "Bermuda",
+    "Ranking": 149,
+    "lat": 32.3333,
+    "lon": -64.75
+  },
+  {
+    "Code": "BTN",
+    "USD": 1884,
+    "Economy": "Bhutan",
+    "Ranking": 167,
+    "lat": 27.5,
+    "lon": 90.5
+  },
+  {
+    "Code": "BOL",
+    "USD": 30601,
+    "Economy": "Bolivia",
+    "Ranking": 97,
+    "lat": -17,
+    "lon": -65
+  },
+  {
+    "Code": "BOL",
+    "USD": 30601,
+    "Economy": "Bolivia",
+    "Ranking": 97,
+    "lat": -17,
+    "lon": -65
+  },
+  {
+    "Code": "BIH",
+    "USD": 17828,
+    "Economy": "Bosnia and Herzegovina",
+    "Ranking": 111,
+    "lat": 44,
+    "lon": 18
+  },
+  {
+    "Code": "BWA",
+    "USD": 14788,
+    "Economy": "Botswana",
+    "Ranking": 119,
+    "lat": -22,
+    "lon": 24
+  },
+  {
+    "Code": "BRA",
+    "USD": 2245673,
+    "Economy": "Brazil",
+    "Ranking": 7,
+    "lat": -10,
+    "lon": -55
+  },
+  {
+    "Code": "BRN",
+    "USD": 16111,
+    "Economy": "Brunei Darussalam",
+    "Ranking": 113,
+    "lat": 4.5,
+    "lon": 114.6667
+  },
+  {
+    "Code": "BRN",
+    "USD": 16111,
+    "Economy": "Brunei Darussalam",
+    "Ranking": 113,
+    "lat": 4.5,
+    "lon": 114.6667
+  },
+  {
+    "Code": "BGR",
+    "USD": 53010,
+    "Economy": "Bulgaria",
+    "Ranking": 78,
+    "lat": 43,
+    "lon": 25
+  },
+  {
+    "Code": "BFA",
+    "USD": 11583,
+    "Economy": "Burkina Faso",
+    "Ranking": 129,
+    "lat": 13,
+    "lon": -2
+  },
+  {
+    "Code": "BDI",
+    "USD": 2718,
+    "Economy": "Burundi",
+    "Ranking": 161,
+    "lat": -3.5,
+    "lon": 30
+  },
+  {
+    "Code": "KHM",
+    "USD": 15250,
+    "Economy": "Cambodia",
+    "Ranking": 117,
+    "lat": 13,
+    "lon": 105
+  },
+  {
+    "Code": "CMR",
+    "USD": 29275,
+    "Economy": "Cameroon",
+    "Ranking": 99,
+    "lat": 6,
+    "lon": 12
+  },
+  {
+    "Code": "CAN",
+    "USD": 1825096,
+    "Economy": "Canada",
+    "Ranking": 11,
+    "lat": 60,
+    "lon": -95
+  },
+  {
+    "Code": "CPV",
+    "USD": 1888,
+    "Economy": "Cape Verde",
+    "Ranking": 166,
+    "lat": 16,
+    "lon": -24
+  },
+  {
+    "Code": "CAF",
+    "USD": 1538,
+    "Economy": "Central African Republic",
+    "Ranking": 170,
+    "lat": 7,
+    "lon": 21
+  },
+  {
+    "Code": "TCD",
+    "USD": 13414,
+    "Economy": "Chad",
+    "Ranking": 124,
+    "lat": 15,
+    "lon": 19
+  },
+  {
+    "Code": "CHL",
+    "USD": 277199,
+    "Economy": "Chile",
+    "Ranking": 38,
+    "lat": -30,
+    "lon": -71
+  },
+  {
+    "Code": "CHN",
+    "USD": 9240270,
+    "Economy": "China",
+    "Ranking": 2,
+    "lat": 35,
+    "lon": 105
+  },
+  {
+    "Code": "COL",
+    "USD": 378148,
+    "Economy": "Colombia",
+    "Ranking": 31,
+    "lat": 4,
+    "lon": -72
+  },
+  {
+    "Code": "COM",
+    "USD": 657,
+    "Economy": "Comoros",
+    "Ranking": 183,
+    "lat": -12.1667,
+    "lon": 44.25
+  },
+  {
+    "Code": "COG",
+    "USD": 14108,
+    "Economy": "Congo, Rep.",
+    "Ranking": 122,
+    "lat": -1,
+    "lon": 15
+  },
+  {
+    "Code": "CRI",
+    "USD": 49621,
+    "Economy": "Costa Rica",
+    "Ranking": 80,
+    "lat": 10,
+    "lon": -84
+  },
+  {
+    "Code": "CIV",
+    "USD": 30905,
+    "Economy": "C√¥te d'Ivoire",
+    "Ranking": 95,
+    "lat": 8,
+    "lon": -5
+  },
+  {
+    "Code": "CIV",
+    "USD": 30905,
+    "Economy": "C√¥te d'Ivoire",
+    "Ranking": 95,
+    "lat": 8,
+    "lon": -5
+  },
+  {
+    "Code": "HRV",
+    "USD": 57539,
+    "Economy": "Croatia",
+    "Ranking": 74,
+    "lat": 45.1667,
+    "lon": 15.5
+  },
+  {
+    "Code": "CUB",
+    "USD": 68234,
+    "Economy": "Cuba",
+    "Ranking": 69,
+    "lat": 21.5,
+    "lon": -80
+  },
+  {
+    "Code": "CYP",
+    "USD": 22767,
+    "Economy": "Cyprus",
+    "Ranking": 104,
+    "lat": 35,
+    "lon": 33
+  },
+  {
+    "Code": "CZE",
+    "USD": 198450,
+    "Economy": "Czech Republic",
+    "Ranking": 52,
+    "lat": 49.75,
+    "lon": 15.5
+  },
+  {
+    "Code": "DNK",
+    "USD": 330814,
+    "Economy": "Denmark",
+    "Ranking": 34,
+    "lat": 56,
+    "lon": 10
+  },
+  {
+    "Code": "DJI",
+    "USD": 1456,
+    "Economy": "Djibouti",
+    "Ranking": 171,
+    "lat": 11.5,
+    "lon": 43
+  },
+  {
+    "Code": "DMA",
+    "USD": 505,
+    "Economy": "Dominica",
+    "Ranking": 184,
+    "lat": 15.4167,
+    "lon": -61.3333
+  },
+  {
+    "Code": "DOM",
+    "USD": 60614,
+    "Economy": "Dominican Republic",
+    "Ranking": 72,
+    "lat": 19,
+    "lon": -70.6667
+  },
+  {
+    "Code": "ECU",
+    "USD": 90023,
+    "Economy": "Ecuador",
+    "Ranking": 64,
+    "lat": -2,
+    "lon": -77.5
+  },
+  {
+    "Code": "EGY",
+    "USD": 271973,
+    "Economy": "Egypt, Arab Rep.",
+    "Ranking": 41,
+    "lat": 27,
+    "lon": 30
+  },
+  {
+    "Code": "SLV",
+    "USD": 24259,
+    "Economy": "El Salvador",
+    "Ranking": 103,
+    "lat": 13.8333,
+    "lon": -88.9167
+  },
+  {
+    "Code": "GNQ",
+    "USD": 15574,
+    "Economy": "Equatorial Guinea",
+    "Ranking": 114,
+    "lat": 2,
+    "lon": 10
+  },
+  {
+    "Code": "ERI",
+    "USD": 3444,
+    "Economy": "Eritrea",
+    "Ranking": 159,
+    "lat": 15,
+    "lon": 39
+  },
+  {
+    "Code": "EST",
+    "USD": 24477,
+    "Economy": "Estonia",
+    "Ranking": 102,
+    "lat": 59,
+    "lon": 26
+  },
+  {
+    "Code": "ETH",
+    "USD": 46869,
+    "Economy": "Ethiopia",
+    "Ranking": 83,
+    "lat": 8,
+    "lon": 38
+  },
+  {
+    "Code": "FJI",
+    "USD": 4028,
+    "Economy": "Fiji",
+    "Ranking": 156,
+    "lat": -18,
+    "lon": 175
+  },
+  {
+    "Code": "FIN",
+    "USD": 256842,
+    "Economy": "Finland",
+    "Ranking": 42,
+    "lat": 64,
+    "lon": 26
+  },
+  {
+    "Code": "FRA",
+    "USD": 2734949,
+    "Economy": "France",
+    "Ranking": 5,
+    "lat": 46,
+    "lon": 2
+  },
+  {
+    "Code": "GAB",
+    "USD": 19344,
+    "Economy": "Gabon",
+    "Ranking": 108,
+    "lat": -1,
+    "lon": 11.75
+  },
+  {
+    "Code": "GMB",
+    "USD": 914,
+    "Economy": "Gambia, The",
+    "Ranking": 176,
+    "lat": 13.4667,
+    "lon": -16.5667
+  },
+  {
+    "Code": "GEO",
+    "USD": 16127,
+    "Economy": "Georgia",
+    "Ranking": 112,
+    "lat": 42,
+    "lon": 43.5
+  },
+  {
+    "Code": "DEU",
+    "USD": 3634823,
+    "Economy": "Germany",
+    "Ranking": 4,
+    "lat": 51,
+    "lon": 9
+  },
+  {
+    "Code": "GHA",
+    "USD": 47929,
+    "Economy": "Ghana",
+    "Ranking": 81,
+    "lat": 8,
+    "lon": -2
+  },
+  {
+    "Code": "GRC",
+    "USD": 241721,
+    "Economy": "Greece",
+    "Ranking": 43,
+    "lat": 39,
+    "lon": 22
+  },
+  {
+    "Code": "GRD",
+    "USD": 834,
+    "Economy": "Grenada",
+    "Ranking": 179,
+    "lat": 12.1167,
+    "lon": -61.6667
+  },
+  {
+    "Code": "GTM",
+    "USD": 53797,
+    "Economy": "Guatemala",
+    "Ranking": 77,
+    "lat": 15.5,
+    "lon": -90.25
+  },
+  {
+    "Code": "GIN",
+    "USD": 6193,
+    "Economy": "Guinea",
+    "Ranking": 147,
+    "lat": 11,
+    "lon": -10
+  },
+  {
+    "Code": "GNB",
+    "USD": 859,
+    "Economy": "Guinea-Bissau",
+    "Ranking": 177,
+    "lat": 12,
+    "lon": -15
+  },
+  {
+    "Code": "GUY",
+    "USD": 3076,
+    "Economy": "Guyana",
+    "Ranking": 160,
+    "lat": 5,
+    "lon": -59
+  },
+  {
+    "Code": "HTI",
+    "USD": 8459,
+    "Economy": "Haiti",
+    "Ranking": 139,
+    "lat": 19,
+    "lon": -72.4167
+  },
+  {
+    "Code": "HND",
+    "USD": 18550,
+    "Economy": "Honduras",
+    "Ranking": 110,
+    "lat": 15,
+    "lon": -86.5
+  },
+  {
+    "Code": "HKG",
+    "USD": 274013,
+    "Economy": "Hong Kong SAR, China",
+    "Ranking": 39,
+    "lat": 22.25,
+    "lon": 114.1667
+  },
+  {
+    "Code": "HUN",
+    "USD": 124600,
+    "Economy": "Hungary",
+    "Ranking": 59,
+    "lat": 47,
+    "lon": 20
+  },
+  {
+    "Code": "ISL",
+    "USD": 14620,
+    "Economy": "Iceland",
+    "Ranking": 120,
+    "lat": 65,
+    "lon": -18
+  },
+  {
+    "Code": "IND",
+    "USD": 1876797,
+    "Economy": "India",
+    "Ranking": 10,
+    "lat": 20,
+    "lon": 77
+  },
+  {
+    "Code": "IDN",
+    "USD": 868346,
+    "Economy": "Indonesia",
+    "Ranking": 16,
+    "lat": -5,
+    "lon": 120
+  },
+  {
+    "Code": "IRN",
+    "USD": 368904,
+    "Economy": "Iran, Islamic Rep.",
+    "Ranking": 32,
+    "lat": 32,
+    "lon": 53
+  },
+  {
+    "Code": "IRQ",
+    "USD": 222879,
+    "Economy": "Iraq",
+    "Ranking": 46,
+    "lat": 33,
+    "lon": 44
+  },
+  {
+    "Code": "IRL",
+    "USD": 217816,
+    "Economy": "Ireland",
+    "Ranking": 48,
+    "lat": 53,
+    "lon": -8
+  },
+  {
+    "Code": "ISR",
+    "USD": 291357,
+    "Economy": "Israel",
+    "Ranking": 37,
+    "lat": 31.5,
+    "lon": 34.75
+  },
+  {
+    "Code": "ITA",
+    "USD": 2071307,
+    "Economy": "Italy",
+    "Ranking": 9,
+    "lat": 42.8333,
+    "lon": 12.8333
+  },
+  {
+    "Code": "JAM",
+    "USD": 14362,
+    "Economy": "Jamaica",
+    "Ranking": 121,
+    "lat": 18.25,
+    "lon": -77.5
+  },
+  {
+    "Code": "JPN",
+    "USD": 4901530,
+    "Economy": "Japan",
+    "Ranking": 3,
+    "lat": 36,
+    "lon": 138
+  },
+  {
+    "Code": "JOR",
+    "USD": 33678,
+    "Economy": "Jordan",
+    "Ranking": 92,
+    "lat": 31,
+    "lon": 36
+  },
+  {
+    "Code": "KAZ",
+    "USD": 224415,
+    "Economy": "Kazakhstan",
+    "Ranking": 45,
+    "lat": 48,
+    "lon": 68
+  },
+  {
+    "Code": "KEN",
+    "USD": 44101,
+    "Economy": "Kenya",
+    "Ranking": 86,
+    "lat": 1,
+    "lon": 38
+  },
+  {
+    "Code": "KIR",
+    "USD": 169,
+    "Economy": "Kiribati",
+    "Ranking": 190,
+    "lat": 1.4167,
+    "lon": 173
+  },
+  {
+    "Code": "KOR",
+    "USD": 1304554,
+    "Economy": "Korea, Rep.",
+    "Ranking": 14,
+    "lat": 37,
+    "lon": 127.5
+  },
+  {
+    "Code": "KOR",
+    "USD": 1304554,
+    "Economy": "Korea, Rep.",
+    "Ranking": 14,
+    "lat": 37,
+    "lon": 127.5
+  },
+  {
+    "Code": "KWT",
+    "USD": 183219,
+    "Economy": "Kuwait",
+    "Ranking": 54,
+    "lat": 29.3375,
+    "lon": 47.6581
+  },
+  {
+    "Code": "KGZ",
+    "USD": 7226,
+    "Economy": "Kyrgyz Republic",
+    "Ranking": 145,
+    "lat": 41,
+    "lon": 75
+  },
+  {
+    "Code": "LAO",
+    "USD": 11141,
+    "Economy": "Lao PDR",
+    "Ranking": 132,
+    "lat": 18,
+    "lon": 105
+  },
+  {
+    "Code": "LVA",
+    "USD": 28373,
+    "Economy": "Latvia",
+    "Ranking": 100,
+    "lat": 57,
+    "lon": 25
+  },
+  {
+    "Code": "LBN",
+    "USD": 44352,
+    "Economy": "Lebanon",
+    "Ranking": 85,
+    "lat": 33.8333,
+    "lon": 35.8333
+  },
+  {
+    "Code": "LSO",
+    "USD": 2230,
+    "Economy": "Lesotho",
+    "Ranking": 164,
+    "lat": -29.5,
+    "lon": 28.5
+  },
+  {
+    "Code": "LBR",
+    "USD": 1951,
+    "Economy": "Liberia",
+    "Ranking": 165,
+    "lat": 6.5,
+    "lon": -9.5
+  },
+  {
+    "Code": "LBY",
+    "USD": 75456,
+    "Economy": "Libya",
+    "Ranking": 66,
+    "lat": 25,
+    "lon": 17
+  },
+  {
+    "Code": "LBY",
+    "USD": 75456,
+    "Economy": "Libya",
+    "Ranking": 66,
+    "lat": 25,
+    "lon": 17
+  },
+  {
+    "Code": "LTU",
+    "USD": 42344,
+    "Economy": "Lithuania",
+    "Ranking": 89,
+    "lat": 56,
+    "lon": 24
+  },
+  {
+    "Code": "LUX",
+    "USD": 60383,
+    "Economy": "Luxembourg",
+    "Ranking": 73,
+    "lat": 49.75,
+    "lon": 6.1667
+  },
+  {
+    "Code": "MAC",
+    "USD": 51753,
+    "Economy": "Macao SAR, China",
+    "Ranking": 79,
+    "lat": 22.1667,
+    "lon": 113.55
+  },
+  {
+    "Code": "MKD",
+    "USD": 10221,
+    "Economy": "Macedonia, FYR",
+    "Ranking": 136,
+    "lat": 41.8333,
+    "lon": 22
+  },
+  {
+    "Code": "MDG",
+    "USD": 10797,
+    "Economy": "Madagascar",
+    "Ranking": 134,
+    "lat": -20,
+    "lon": 47
+  },
+  {
+    "Code": "MWI",
+    "USD": 3705,
+    "Economy": "Malawi",
+    "Ranking": 158,
+    "lat": -13.5,
+    "lon": 34
+  },
+  {
+    "Code": "MYS",
+    "USD": 312435,
+    "Economy": "Malaysia",
+    "Ranking": 35,
+    "lat": 2.5,
+    "lon": 112.5
+  },
+  {
+    "Code": "MDV",
+    "USD": 2300,
+    "Economy": "Maldives",
+    "Ranking": 163,
+    "lat": 3.25,
+    "lon": 73
+  },
+  {
+    "Code": "MLI",
+    "USD": 10943,
+    "Economy": "Mali",
+    "Ranking": 133,
+    "lat": 17,
+    "lon": -4
+  },
+  {
+    "Code": "MLT",
+    "USD": 8741,
+    "Economy": "Malta",
+    "Ranking": 137,
+    "lat": 35.8333,
+    "lon": 14.5833
+  },
+  {
+    "Code": "MHL",
+    "USD": 175,
+    "Economy": "Marshall Islands",
+    "Ranking": 189,
+    "lat": 9,
+    "lon": 168
+  },
+  {
+    "Code": "MRT",
+    "USD": 4163,
+    "Economy": "Mauritania",
+    "Ranking": 155,
+    "lat": 20,
+    "lon": -12
+  },
+  {
+    "Code": "MUS",
+    "USD": 11938,
+    "Economy": "Mauritius",
+    "Ranking": 128,
+    "lat": -20.2833,
+    "lon": 57.55
+  },
+  {
+    "Code": "MEX",
+    "USD": 1260915,
+    "Economy": "Mexico",
+    "Ranking": 15,
+    "lat": 23,
+    "lon": -102
+  },
+  {
+    "Code": "FSM",
+    "USD": 335,
+    "Economy": "Micronesia, Fed. Sts.",
+    "Ranking": 186,
+    "lat": 6.9167,
+    "lon": 158.25
+  },
+  {
+    "Code": "MDA",
+    "USD": 7935,
+    "Economy": "Moldova",
+    "Ranking": 142,
+    "lat": 47,
+    "lon": 29
+  },
+  {
+    "Code": "MCO",
+    "USD": 6075,
+    "Economy": "Monaco",
+    "Ranking": 148,
+    "lat": 43.7333,
+    "lon": 7.4
+  },
+  {
+    "Code": "MNG",
+    "USD": 11516,
+    "Economy": "Mongolia",
+    "Ranking": 130,
+    "lat": 46,
+    "lon": 105
+  },
+  {
+    "Code": "MNE",
+    "USD": 4428,
+    "Economy": "Montenegro",
+    "Ranking": 152,
+    "lat": 42,
+    "lon": 19
+  },
+  {
+    "Code": "MAR",
+    "USD": 104374,
+    "Economy": "Morocco",
+    "Ranking": 61,
+    "lat": 32,
+    "lon": -5
+  },
+  {
+    "Code": "MOZ",
+    "USD": 15319,
+    "Economy": "Mozambique",
+    "Ranking": 115,
+    "lat": -18.25,
+    "lon": 35
+  },
+  {
+    "Code": "NAM",
+    "USD": 12580,
+    "Economy": "Namibia",
+    "Ranking": 127,
+    "lat": -22,
+    "lon": 17
+  },
+  {
+    "Code": "NPL",
+    "USD": 19294,
+    "Economy": "Nepal",
+    "Ranking": 109,
+    "lat": 28,
+    "lon": 84
+  },
+  {
+    "Code": "NLD",
+    "USD": 800173,
+    "Economy": "Netherlands",
+    "Ranking": 18,
+    "lat": 52.5,
+    "lon": 5.75
+  },
+  {
+    "Code": "NZL",
+    "USD": 182594,
+    "Economy": "New Zealand",
+    "Ranking": 55,
+    "lat": -41,
+    "lon": 174
+  },
+  {
+    "Code": "NIC",
+    "USD": 11256,
+    "Economy": "Nicaragua",
+    "Ranking": 131,
+    "lat": 13,
+    "lon": -85
+  },
+  {
+    "Code": "NER",
+    "USD": 7356,
+    "Economy": "Niger",
+    "Ranking": 144,
+    "lat": 16,
+    "lon": 8
+  },
+  {
+    "Code": "NGA",
+    "USD": 522638,
+    "Economy": "Nigeria",
+    "Ranking": 23,
+    "lat": 10,
+    "lon": 8
+  },
+  {
+    "Code": "NOR",
+    "USD": 512580,
+    "Economy": "Norway",
+    "Ranking": 25,
+    "lat": 62,
+    "lon": 10
+  },
+  {
+    "Code": "OMN",
+    "USD": 80570,
+    "Economy": "Oman",
+    "Ranking": 65,
+    "lat": 21,
+    "lon": 57
+  },
+  {
+    "Code": "PAK",
+    "USD": 236625,
+    "Economy": "Pakistan",
+    "Ranking": 44,
+    "lat": 30,
+    "lon": 70
+  },
+  {
+    "Code": "PLW",
+    "USD": 247,
+    "Economy": "Palau",
+    "Ranking": 188,
+    "lat": 7.5,
+    "lon": 134.5
+  },
+  {
+    "Code": "PAN",
+    "USD": 42648,
+    "Economy": "Panama",
+    "Ranking": 87,
+    "lat": 9,
+    "lon": -80
+  },
+  {
+    "Code": "PNG",
+    "USD": 15289,
+    "Economy": "Papua New Guinea",
+    "Ranking": 116,
+    "lat": -6,
+    "lon": 147
+  },
+  {
+    "Code": "PRY",
+    "USD": 29949,
+    "Economy": "Paraguay",
+    "Ranking": 98,
+    "lat": -23,
+    "lon": -58
+  },
+  {
+    "Code": "PER",
+    "USD": 202296,
+    "Economy": "Peru",
+    "Ranking": 51,
+    "lat": -10,
+    "lon": -76
+  },
+  {
+    "Code": "PHL",
+    "USD": 272017,
+    "Economy": "Philippines",
+    "Ranking": 40,
+    "lat": 13,
+    "lon": 122
+  },
+  {
+    "Code": "POL",
+    "USD": 517543,
+    "Economy": "Poland",
+    "Ranking": 24,
+    "lat": 52,
+    "lon": 20
+  },
+  {
+    "Code": "PRT",
+    "USD": 219962,
+    "Economy": "Portugal",
+    "Ranking": 47,
+    "lat": 39.5,
+    "lon": -8
+  },
+  {
+    "Code": "PRI",
+    "USD": 101496,
+    "Economy": "Puerto Rico",
+    "Ranking": 62,
+    "lat": 18.25,
+    "lon": -66.5
+  },
+  {
+    "Code": "QAT",
+    "USD": 202450,
+    "Economy": "Qatar",
+    "Ranking": 50,
+    "lat": 25.5,
+    "lon": 51.25
+  },
+  {
+    "Code": "RUS",
+    "USD": 2096777,
+    "Economy": "Russian Federation",
+    "Ranking": 8,
+    "lat": 60,
+    "lon": 100
+  },
+  {
+    "Code": "RUS",
+    "USD": 2096777,
+    "Economy": "Russian Federation",
+    "Ranking": 8,
+    "lat": 60,
+    "lon": 100
+  },
+  {
+    "Code": "RWA",
+    "USD": 7452,
+    "Economy": "Rwanda",
+    "Ranking": 143,
+    "lat": -2,
+    "lon": 30
+  },
+  {
+    "Code": "KNA",
+    "USD": 743,
+    "Economy": "St. Kitts and Nevis",
+    "Ranking": 180,
+    "lat": 17.3333,
+    "lon": -62.75
+  },
+  {
+    "Code": "LCA",
+    "USD": 1332,
+    "Economy": "St. Lucia",
+    "Ranking": 172,
+    "lat": 13.8833,
+    "lon": -61.1333
+  },
+  {
+    "Code": "VCT",
+    "USD": 726,
+    "Economy": "St. Vincent and the Grenadines",
+    "Ranking": 181,
+    "lat": 13.25,
+    "lon": -61.2
+  },
+  {
+    "Code": "VCT",
+    "USD": 726,
+    "Economy": "St. Vincent and the Grenadines",
+    "Ranking": 181,
+    "lat": 13.25,
+    "lon": -61.2
+  },
+  {
+    "Code": "VCT",
+    "USD": 726,
+    "Economy": "St. Vincent and the Grenadines",
+    "Ranking": 181,
+    "lat": 13.25,
+    "lon": -61.2
+  },
+  {
+    "Code": "WSM",
+    "USD": 694,
+    "Economy": "Samoa",
+    "Ranking": 182,
+    "lat": -13.5833,
+    "lon": -172.3333
+  },
+  {
+    "Code": "STP",
+    "USD": 311,
+    "Economy": "S√£o Tom√© and Principe",
+    "Ranking": 187,
+    "lat": 1,
+    "lon": 7
+  },
+  {
+    "Code": "SAU",
+    "USD": 745273,
+    "Economy": "Saudi Arabia",
+    "Ranking": 19,
+    "lat": 25,
+    "lon": 45
+  },
+  {
+    "Code": "SEN",
+    "USD": 15150,
+    "Economy": "Senegal",
+    "Ranking": 118,
+    "lat": 14,
+    "lon": -14
+  },
+  {
+    "Code": "SRB",
+    "USD": 42521,
+    "Economy": "Serbia",
+    "Ranking": 88,
+    "lat": 44,
+    "lon": 21
+  },
+  {
+    "Code": "SYC",
+    "USD": 1268,
+    "Economy": "Seychelles",
+    "Ranking": 173,
+    "lat": -4.5833,
+    "lon": 55.6667
+  },
+  {
+    "Code": "SLE",
+    "USD": 4929,
+    "Economy": "Sierra Leone",
+    "Ranking": 151,
+    "lat": 8.5,
+    "lon": -11.5
+  },
+  {
+    "Code": "SGP",
+    "USD": 297941,
+    "Economy": "Singapore",
+    "Ranking": 36,
+    "lat": 1.3667,
+    "lon": 103.8
+  },
+  {
+    "Code": "SVK",
+    "USD": 91348,
+    "Economy": "Slovak Republic",
+    "Ranking": 63,
+    "lat": 48.6667,
+    "lon": 19.5
+  },
+  {
+    "Code": "SVN",
+    "USD": 45378,
+    "Economy": "Slovenia",
+    "Ranking": 84,
+    "lat": 46,
+    "lon": 15
+  },
+  {
+    "Code": "SLB",
+    "USD": 1096,
+    "Economy": "Solomon Islands",
+    "Ranking": 175,
+    "lat": -8,
+    "lon": 159
+  },
+  {
+    "Code": "ZAF",
+    "USD": 350630,
+    "Economy": "South Africa",
+    "Ranking": 33,
+    "lat": -29,
+    "lon": 24
+  },
+  {
+    "Code": "ESP",
+    "USD": 1358263,
+    "Economy": "Spain",
+    "Ranking": 13,
+    "lat": 40,
+    "lon": -4
+  },
+  {
+    "Code": "LKA",
+    "USD": 67182,
+    "Economy": "Sri Lanka",
+    "Ranking": 70,
+    "lat": 7,
+    "lon": 81
+  },
+  {
+    "Code": "SDN",
+    "USD": 66548,
+    "Economy": "Sudan",
+    "Ranking": 71,
+    "lat": 15,
+    "lon": 30
+  },
+  {
+    "Code": "SUR",
+    "USD": 5231,
+    "Economy": "Suriname",
+    "Ranking": 150,
+    "lat": 4,
+    "lon": -56
+  },
+  {
+    "Code": "SWZ",
+    "USD": 3791,
+    "Economy": "Swaziland",
+    "Ranking": 157,
+    "lat": -26.5,
+    "lon": 31.5
+  },
+  {
+    "Code": "SWE",
+    "USD": 557938,
+    "Economy": "Sweden",
+    "Ranking": 22,
+    "lat": 62,
+    "lon": 15
+  },
+  {
+    "Code": "CHE",
+    "USD": 650782,
+    "Economy": "Switzerland",
+    "Ranking": 20,
+    "lat": 47,
+    "lon": 8
+  },
+  {
+    "Code": "TJK",
+    "USD": 8508,
+    "Economy": "Tajikistan",
+    "Ranking": 138,
+    "lat": 39,
+    "lon": 71
+  },
+  {
+    "Code": "TZA",
+    "USD": 33225,
+    "Economy": "Tanzania",
+    "Ranking": 93,
+    "lat": -6,
+    "lon": 35
+  },
+  {
+    "Code": "THA",
+    "USD": 387252,
+    "Economy": "Thailand",
+    "Ranking": 29,
+    "lat": 15,
+    "lon": 100
+  },
+  {
+    "Code": "TGO",
+    "USD": 4339,
+    "Economy": "Togo",
+    "Ranking": 153,
+    "lat": 8,
+    "lon": 1.1667
+  },
+  {
+    "Code": "TON",
+    "USD": 466,
+    "Economy": "Tonga",
+    "Ranking": 185,
+    "lat": -20,
+    "lon": -175
+  },
+  {
+    "Code": "TTO",
+    "USD": 24641,
+    "Economy": "Trinidad and Tobago",
+    "Ranking": 101,
+    "lat": 11,
+    "lon": -61
+  },
+  {
+    "Code": "TTO",
+    "USD": 24641,
+    "Economy": "Trinidad and Tobago",
+    "Ranking": 101,
+    "lat": 11,
+    "lon": -61
+  },
+  {
+    "Code": "TUN",
+    "USD": 47129,
+    "Economy": "Tunisia",
+    "Ranking": 82,
+    "lat": 34,
+    "lon": 9
+  },
+  {
+    "Code": "TUR",
+    "USD": 820207,
+    "Economy": "Turkey",
+    "Ranking": 17,
+    "lat": 39,
+    "lon": 35
+  },
+  {
+    "Code": "TKM",
+    "USD": 41851,
+    "Economy": "Turkmenistan",
+    "Ranking": 90,
+    "lat": 40,
+    "lon": 60
+  },
+  {
+    "Code": "TUV",
+    "USD": 38,
+    "Economy": "Tuvalu",
+    "Ranking": 191,
+    "lat": -8,
+    "lon": 178
+  },
+  {
+    "Code": "UGA",
+    "USD": 21483,
+    "Economy": "Uganda",
+    "Ranking": 106,
+    "lat": 1,
+    "lon": 32
+  },
+  {
+    "Code": "UKR",
+    "USD": 177431,
+    "Economy": "Ukraine",
+    "Ranking": 56,
+    "lat": 49,
+    "lon": 32
+  },
+  {
+    "Code": "ARE",
+    "USD": 383799,
+    "Economy": "United Arab Emirates",
+    "Ranking": 30,
+    "lat": 24,
+    "lon": 54
+  },
+  {
+    "Code": "GBR",
+    "USD": 2522261,
+    "Economy": "United Kingdom",
+    "Ranking": 6,
+    "lat": 54,
+    "lon": -2
+  },
+  {
+    "Code": "USA",
+    "USD": 16800000,
+    "Economy": "United States",
+    "Ranking": 1,
+    "lat": 38,
+    "lon": -97
+  },
+  {
+    "Code": "URY",
+    "USD": 55708,
+    "Economy": "Uruguay",
+    "Ranking": 76,
+    "lat": -33,
+    "lon": -56
+  },
+  {
+    "Code": "UZB",
+    "USD": 56796,
+    "Economy": "Uzbekistan",
+    "Ranking": 75,
+    "lat": 41,
+    "lon": 64
+  },
+  {
+    "Code": "VUT",
+    "USD": 835,
+    "Economy": "Vanuatu",
+    "Ranking": 178,
+    "lat": -16,
+    "lon": 167
+  },
+  {
+    "Code": "VEN",
+    "USD": 438284,
+    "Economy": "Venezuela, RB",
+    "Ranking": 27,
+    "lat": 8,
+    "lon": -66
+  },
+  {
+    "Code": "VEN",
+    "USD": 438284,
+    "Economy": "Venezuela, RB",
+    "Ranking": 27,
+    "lat": 8,
+    "lon": -66
+  },
+  {
+    "Code": "VNM",
+    "USD": 171392,
+    "Economy": "Vietnam",
+    "Ranking": 57,
+    "lat": 16,
+    "lon": 106
+  },
+  {
+    "Code": "VNM",
+    "USD": 171392,
+    "Economy": "Vietnam",
+    "Ranking": 57,
+    "lat": 16,
+    "lon": 106
+  },
+  {
+    "Code": "YEM",
+    "USD": 35955,
+    "Economy": "Yemen, Rep.",
+    "Ranking": 91,
+    "lat": 15,
+    "lon": 48
+  },
+  {
+    "Code": "ZMB",
+    "USD": 22384,
+    "Economy": "Zambia",
+    "Ranking": 105,
+    "lat": -15,
+    "lon": 30
+  },
+  {
+    "Code": "ZWE",
+    "USD": 12802,
+    "Economy": "Zimbabwe",
+    "Ranking": 126,
+    "lat": -20,
+    "lon": 30
+  }
+]
