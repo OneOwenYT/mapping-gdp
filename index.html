@@ -3,6 +3,17 @@
 <title>GDP by country</title>
 <style>
 
+body {
+  font: 12px sans-serif;
+}
+
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: grey;
+}
+
+
 </style>
 <body>
 
@@ -19,4 +30,51 @@
 <script src="vendor/topojson.v1.min.js"></script>
 <script src="vendor/d3.geo.projection.v0.min.js" charset="utf-8"></script>
 <script>
+
+// Basics
+//  Using Mercator
+//  Not using Robinson projection, Chloropleth map, GDP per Capita, responsive maps or modular code...
+var width = 960,
+    height = 500;
+
+var projection = d3.geo.mercator()
+    .scale(115)
+    .center([0,43.790])
+    .translate([width/2,height/2])
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select(".gdp-map").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var features = svg.append("g")
+    .attr("class","features");
+
+//Zoom
+var zoom = d3.behavior.zoom()
+    .scaleExtent([1, Infinity])
+    .on("zoom",zoomed);
+svg.call(zoom);
+
+var tooltip = svg.append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+//Grab topojson
+d3.json("country-geography.topojson",function(error,geodata) {
+  if (error) return console.log(error);
+  features.selectAll("path")
+    .data(topojson.feature(geodata,geodata.objects.subunits).features)
+    .enter()
+    .append("path")
+    .attr("d",path);
+});
+
+function zoomed() {
+  features.attr("transform", "translate(" + zoom.translate() + ")scale(" + zoom.scale() + ")")
+      .selectAll("path").style("stroke-width", 1 / zoom.scale() + "px" );
+}
+
 </script>
