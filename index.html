@@ -17,6 +17,24 @@ circle {
     cursor: pointer;
 }
 
+circle:hover, circle.highlighted {
+  fill: blue;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 120px;
+  height: 150px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+
 </style>
 <body>
 
@@ -56,17 +74,17 @@ var features = svg.append("g")
     .attr("class","features");
 
 //Zoom
-var zoom = d3.behavior.zoom()
-    .scaleExtent([1, Infinity])
-    .on("zoom",zoomed);
-svg.call(zoom);
+// var zoom = d3.behavior.zoom()
+//     .scaleExtent([1, Infinity])
+//     .on("zoom",zoomed);
+// svg.call(zoom);
 
-var tooltip = svg.append("div")
+var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
 // Adding the data
-// Not loading data asychrounously, or fully merging files, or separating concerns.
+// Not loading data asynchronously, or fully merging files, or separating concerns.
 d3.json("country-geography.topojson",function(error,geodata) {
   if (error) return console.log(error);
   features.selectAll("path")
@@ -88,7 +106,20 @@ d3.json("country-geography.topojson",function(error,geodata) {
             return projection([d.lon, d.lat])[1];
           })
           .attr("r", 5)
-          .style("fill", "red");
+          .style("fill", "red")
+          .on("mouseover", function(d) {
+            tooltip.transition()
+                .duration(200)
+                .style("opacity", .9)
+            tooltip.html("<h2>" + d.Economy + "</h2><hr><p><strong>Rank:</strong>" + d.Ranking + "</p><p><strong>GDP:</strong> $" + d.USD + " (USD)</p></div>")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+          })
+          .on("mouseout", function(d) {
+            tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+          });
   });
 });
 
