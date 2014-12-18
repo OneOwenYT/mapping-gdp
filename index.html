@@ -13,6 +13,9 @@ path {
   fill: grey;
 }
 
+circle {
+    cursor: pointer;
+}
 
 </style>
 <body>
@@ -33,7 +36,7 @@ path {
 
 // Basics
 //  Using Mercator
-//  Not using Robinson projection, Chloropleth map, GDP per Capita, responsive maps or modular code...
+//  Not using Robinson projection, Choropleth map, GDP per Capita, responsive maps or modular code...
 var width = 960,
     height = 500;
 
@@ -62,7 +65,8 @@ var tooltip = svg.append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
-//Grab topojson
+// Adding the data
+// Not loading data asychrounously, or fully merging files, or separating concerns.
 d3.json("country-geography.topojson",function(error,geodata) {
   if (error) return console.log(error);
   features.selectAll("path")
@@ -70,6 +74,22 @@ d3.json("country-geography.topojson",function(error,geodata) {
     .enter()
     .append("path")
     .attr("d",path);
+
+  // Grab gdp / lat/long
+  d3.json("GDP.json",function(error,data) {
+      features.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+          .attr("cx", function(d) {
+            return projection([d.lon, d.lat])[0];
+          })
+          .attr("cy", function(d) {
+            return projection([d.lon, d.lat])[1];
+          })
+          .attr("r", 5)
+          .style("fill", "red");
+  });
 });
 
 function zoomed() {
